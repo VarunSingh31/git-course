@@ -1,3 +1,8 @@
 Varun Singh 
 Taniya Singh 
-Git tutorial 
+Git tutorial
+Linux 
+PHP 
+Docker
+Kubernetes
+ 
